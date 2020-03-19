@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /
+
+Sitemap: http://www.walacefelix.com/sitemap.xml
